@@ -1,0 +1,21 @@
+name: "Homework 4"
+output_dir: "docs"
+navbar:
+  title: "Mungyu Kwok"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Dashboard (Problem 2)"
+      href: problem_2.html
+  right:
+    - icon: fa-github
+      text: "GitHub"
+      href: https://github.com/kwokmungyu/mk5149.github.io.git 
+    - icon: fa-envelope
+      text: "Email"
+      href: "mk5149@cumc.columbia.edu" 
+output:
+  html_document:
+    theme: cosmo
