@@ -12,7 +12,7 @@ navbar:
   right:
     - icon: fa-github
       text: "GitHub"
-      href: https://kwokmungyu.github.io/mk5149.github.io
+      href: http://github.com/kwokmungyu/
     - icon: fa-envelope
       text: "Email"
       href: "mk5149@cumc.columbia.edu" 
